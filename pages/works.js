@@ -14,7 +14,7 @@ const Works = () => (
 
         <SimpleGrid columns={[1, 1, 2]} gap={6}>
             <Section>
-            <WorkGridItem id="lesbook" title="Lesbook" thumbnail={thumbLesbook}>
+            <WorkGridItem id="lesbook" title="Lesbook" thumbnail={thumbLesbook} href="https://github.com/trrez/LesBook">
                 Rest book api
             </WorkGridItem>
             </Section>
